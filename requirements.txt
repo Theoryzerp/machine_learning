@@ -1,0 +1,28 @@
+# Core Scientific & Data Processing
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning & Data Science
+scikit-learn
+
+# Deep Learning
+torch
+tensorflow
+keras
+
+# Computer Vision & Image Processing
+opencv-python
+Pillow
+
+# Jupyter & Interactive Computing
+ipykernel
+jupyterlab
+notebook
+
+# Utilities
+gdown
